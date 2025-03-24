@@ -1,3 +1,5 @@
+import time
+
 myTime=int(input("Enter the time in seconds: "))
 
 for x in range(myTime,0,-1):
